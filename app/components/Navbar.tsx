@@ -1,5 +1,6 @@
 import next from "next";
 import Link from "next/link";
+import Script from "next/script";
 
 const Navbar = () => {
   <nav className="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
