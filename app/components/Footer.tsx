@@ -1,6 +1,10 @@
 import next from "next";
 import Link from "next/link";
 import Script from "next/script";
+// import '../css/style/css';
+// import '../css/bootstrap.min.css';
+// import '../scss/bootstrap.scss';
+
 
 const Footer = () => {
   return (
@@ -162,3 +166,6 @@ const Footer = () => {
     </div>
   );
 };
+
+
+export default Footer;

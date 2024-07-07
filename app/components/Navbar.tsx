@@ -1,9 +1,14 @@
 import next from "next";
 import Link from "next/link";
 import Script from "next/script";
+// import '../css/style/css';
+// import '../css/bootstrap.min.css';
+// import '../scss/bootstrap.scss';
+
 
 const Navbar = () => {
-  <nav className="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+  return(
+    <nav className="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
     <a href="" className="navbar-brand p-0">
       <h1 className="m-0">
         <i className="fa fa-search me-2"></i>SEO
@@ -72,7 +77,8 @@ const Navbar = () => {
         Pro Version
       </a>
     </div>
-  </nav>;
+  </nav>
+  )
 };
 
 export default Navbar;
