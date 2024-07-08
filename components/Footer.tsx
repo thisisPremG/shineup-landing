@@ -68,42 +68,42 @@ const Footer = () => {
               <div className="col-4">
                 <img
                   className="img-fluid"
-                  src="img/portfolio-1.jpg"
+                  src="/public/img/portfolio-1.jpg"
                   alt="Image"
                 />
               </div>
               <div className="col-4">
                 <img
                   className="img-fluid"
-                  src="img/portfolio-2.jpg"
+                  src="/public/img/portfolio-2.jpg"
                   alt="Image"
                 />
               </div>
               <div className="col-4">
                 <img
                   className="img-fluid"
-                  src="img/portfolio-3.jpg"
+                  src="/public/img/portfolio-3.jpg"
                   alt="Image"
                 />
               </div>
               <div className="col-4">
                 <img
                   className="img-fluid"
-                  src="img/portfolio-4.jpg"
+                  src="/public/img/portfolio-4.jpg"
                   alt="Image"
                 />
               </div>
               <div className="col-4">
                 <img
                   className="img-fluid"
-                  src="img/portfolio-5.jpg"
+                  src="/public/img/portfolio-5.jpg"
                   alt="Image"
                 />
               </div>
               <div className="col-4">
                 <img
                   className="img-fluid"
-                  src="img/portfolio-6.jpg"
+                  src="/public/img/portfolio-6.jpg"
                   alt="Image"
                 />
               </div>
